@@ -54,10 +54,21 @@ Este projeto foi desenvolvido para a disciplina de Programação Orientada a Obj
 
 
 ---
+## Integrantes e Responsabilidades
+Função	Responsável
+Arquiteto de Banco de Dados (DBA)	
 
-## Integrantes
+Desenvolvedor de Persistência (DAO)	
 
+Desenvolvedor de Modelo (Entities)	
 
+Desenvolvedor de Negócio (Business/BO)	Gabriel Alencar
+Especialista em Padrões de Projeto (Gang of Four)	
+
+Desenvolvedor de Interface e Controle (Controller)	
+
+Diretor de Vídeo e Integração (QA)	
 ## Licença
 
-Projeto desenvolvido exclusivamente para fins acadêmicos.
+
+Este projeto foi desenvolvido para fins acadêmicos na disciplina de Projeto Integrador III.
