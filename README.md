@@ -58,7 +58,7 @@ Este projeto foi desenvolvido para a disciplina de Programação Orientada a Obj
 Função	Responsável
 Arquiteto de Banco de Dados (DBA)	
 
-Desenvolvedor de Persistência (DAO)	
+Desenvolvedor de Persistência (DAO)	Mateus Tieppo
 
 Desenvolvedor de Modelo (Entities)	
 
